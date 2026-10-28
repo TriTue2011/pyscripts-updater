@@ -2,6 +2,8 @@
 
 # Pyscript Updater
 
+[![Mở kho này trong HACS của bạn.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=TriTue2011&repository=pyscripts-updater&category=integration)
+
 Tích hợp Home Assistant giữ các tệp **pyscript** của bạn luôn mới theo GitHub. Mỗi tệp trong danh sách nguồn là một thực thể `update`: có bản mới thì bấm **Cài đặt** (hoặc bật tự cập nhật). Bản cũ được sao lưu xoay vòng và khôi phục được.
 
 Học theo [Blueprints Updater](https://github.com/luuquangvu/blueprints-updater) của luuquangvu (giấy phép MIT), làm gọn lại cho pyscript và thêm các lớp an toàn bên dưới.
